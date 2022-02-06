@@ -4,7 +4,7 @@ import ressources.ast as ast
 import pandas as pd
 
 PAGES = {
-	"Lithium": pages.lithium
+	"Remplacement Voiture -> VAE": pages.lithium
 }
 
 def main():
